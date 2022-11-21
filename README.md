@@ -1,3 +1,8 @@
+# Foram executado todos os passos conforme orientações do Cassiano Peres, acrescentei aos arquivos os prints do resultado das exibições dos gráficos pelo amazon QuickSight
+
+
+
+
 # dio-live-athena
 Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 
